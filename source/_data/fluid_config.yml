@@ -1,5 +1,5 @@
 navbar:
-  blog_title: 演示站点
+  blog_title: 祁埠闫の博客
   ground_glass:
     enable: true
 index:
@@ -27,7 +27,7 @@ about:
   banner_img: /images/uploads/wallhaven-pkkr2.webp
   banner_img_height: 80
   subtitle: null
-  avatar: /img/avatar.png
+  avatar: /images/uploads/img_20220812_195459.jpg
   name: 祁埠闫の博客
   intro: 人间不值得
 links:
